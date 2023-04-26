@@ -1,27 +1,21 @@
 # PulStat
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://quvnoq.biz)
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  Shaxsiy ehtiyojlar uchun sarflanadigan mablag'larni monitoring qilib borish uchun qilingan Web ilova, bunda qaysi payt qancha pulni aynan nima uchun sarflaganingiz va boshqa turli statistikalarni olishingiz mumkin. Ushbu web ilovani ishga tushirganingizda undan cheksiz miqdordagi foydalanuvchilar foydalanishi mumkin bo'ladi.
 </td>
 </tr>
 </table>
 
+## Skrinshotlar
 
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+### Kirish qismi
+Kirish qismiga alohida etibor berilgan holda chiroyli holatga olib kelindi.
 
-
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg)
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
