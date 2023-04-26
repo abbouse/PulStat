@@ -32,15 +32,8 @@ Chart.js dan foydalangan holda foydalanuvchi statistikasi qulay tarzda yoritib b
 ## Mobil qurilmadan skrinshotlar
 Shuningdek ilova moslashuvchan dizaynda qilingan va quyida mobil qurilmalardan ham olingan bir nechta skrinshotlar:
 
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile.jpg" height="300">
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile2.jpg" height="300">
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile3.jpg" height="300">
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile4.jpg" height="300">
+<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile.jpg" height="400"><img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile2.jpg" height="400"><img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile3.jpg" height="400"><img src="https://github.com/abbouse/PulStat/raw/master/screenshot/mobile4.jpg" height="400">
 
-![](https://github.com/abbouse/PulStat/raw/master/screenshot/mobile.jpg)
-![](https://github.com/abbouse/PulStat/raw/master/screenshot/mobile2.jpg)
-![](https://github.com/abbouse/PulStat/raw/master/screenshot/mobile3.jpg)
-![](https://github.com/abbouse/PulStat/raw/master/screenshot/mobile4.jpg)
 
 
 
