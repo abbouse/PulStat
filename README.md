@@ -57,8 +57,8 @@ Agar sizda ilova uchun takliv va g'oyalar mavjud bo'lsa yoki sizni hozirgi mavju
 ## Built with 
 
 - [Nice Admin](https://github.com/hacktheme/Nice-Admin) - Bootstrap asosida yaratilgan NiceAdmin mavzusi asosida veb ikova yaratildi.
-- [Chart JS](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library for the modern web.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [Chart JS](https://www.chartjs.org/) - Oson va moslashuvchan JavaScript asosidagi kutubxona. 
+- [Bootstrap](http://getbootstrap.com/) - Ko'pgina komponentlar jamlanmasi va jamlangan JavaScript plaginlari.
 
 ## Team
 
