@@ -15,7 +15,7 @@
 ### Kirish qismi
 Kirish va ro\'yxatdan o\'tish qismiga alohida etibor berilgan holda chiroyli holatga olib kelindi.
 
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="46%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="46%">
+<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="48%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="48%">
 
 ### Ilova bosh sahifasi
 Chart.js dan foydalangan holda foydalanuvchi statistikasi qulay tarzda yoritib boriladi
@@ -36,20 +36,16 @@ Shuningdek ilova moslashuvchan dizaynda qilingan va quyida mobil qurilmalardan h
 
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
 
-### Development
-Want to contribute? Great!
+### O'rnatish
+Sinab ko'rmoqchimisiz?
 
-To fix a bug or enhance an existing module, follow these steps:
+Unda quyidagi oson bosqichlarni bajarishingiz kerak:
 
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
+- Mal. bazasini yaratib oling
+- SQL faylni bazaga yuboring (`/abbous.sql`)
+- Ushbu faylga baza ma'lumotlarini yozing (`/config/config.php`)
+- Foydalanishni boshlashingiz mumkin, qolganini esa ishlatish davomida tushunib olasiz.
 
 ### Bug / Qo'shimchalar qo'shish
 
@@ -60,15 +56,9 @@ Agar sizda ilova uchun takliv va g'oyalar mavjud bo'lsa yoki sizni hozirgi mavju
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
+- [Nice Admin](https://github.com/hacktheme/Nice-Admin) - Bootstrap asosida yaratilgan NiceAdmin mavzusi asosida veb ikova yaratildi.
+- [Chart JS](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library for the modern web.
 - [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
 
