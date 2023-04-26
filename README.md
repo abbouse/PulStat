@@ -17,17 +17,19 @@ Kirish va ro\'yxatdan o\'tish qismiga alohida etibor berilgan holda chiroyli hol
 
 <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="46%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="46%">
 
-### Query Filled Form
+### Ilova bosh sahifasi
+Chart.js dan foydalangan holda foydalanuvchi statistikasi qulay tarzda yoritib boriladi
 ![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen3.jpg)
 
-### Charts
+### Qolgan sahifalar skrinshotlari
 ![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen4.jpg)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen5.jpg)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen6.jpg)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen7.jpg)
 
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+## Mobil qurilmadan skrinshotlar
+Shuningdek ilova moslashuvchan dizaynda qilingan va quyida mobil qurilmalardan ham olingan bir nechta skrinshotlar:
 
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
