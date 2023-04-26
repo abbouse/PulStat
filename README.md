@@ -51,11 +51,11 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
 
-### Bug / Feature Request
+### Bug / Qo'shimchalar qo'shish
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
+Agar siz ushbu loyihada xatolik (veb sahifa siz istagan so'rovni bajarolmadi yoki umuman ishlamadi) topsangiz menga [bu yerda](https://github.com/abbouse/PulStat/issues/new) xabar bering va aynan qayerda nima xato mavjudligi haqida skrinshot olishni unutmang!
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+Agar sizda ilova uchun takliv va g'oyalar mavjud bo'lsa yoki sizni hozirgi mavjud modullar qoniqtirmasa u holda g'oyalaringizni menga [bu yerda](https://github.com/abbouse/PulStat/issues/new) yozing. Iltimos aynan nima istayotganingizni avval aniqlashtirib oling!
 
 
 ## Built with 
