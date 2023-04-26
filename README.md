@@ -17,6 +17,7 @@ Kirish va ro\'yxatdan o\'tish qismiga alohida etibor berilgan holda chiroyli hol
 
 ![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg) ![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg)
 
+<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg"><img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg">
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
