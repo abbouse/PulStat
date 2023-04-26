@@ -15,12 +15,13 @@
 ### Kirish qismi
 Kirish va ro\'yxatdan o\'tish qismiga alohida etibor berilgan holda chiroyli holatga olib kelindi.
 
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="40%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="40%">
+<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="46%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="46%">
+
 ### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen3.jpg)
 
 ### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+![](https://github.com/abbouse/PulStat/raw/master/screenshot/screen4.jpg)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
