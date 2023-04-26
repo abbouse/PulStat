@@ -1,6 +1,7 @@
 # PulStat
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://quvnoq.biz)
+[![forthebadge](https://github.com/abbouse/PulStat/raw/master/screenshot/abbos-turdaliev.svg)](http://quvnoq.biz)
 
 <table>
 <tr>
