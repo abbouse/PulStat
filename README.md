@@ -16,7 +16,7 @@
 ### Kirish qismi
 Kirish va ro\'yxatdan o\'tish qismiga alohida etibor berilgan holda chiroyli holatga olib kelindi.
 
-<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="48%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="48%">
+<img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen.jpg" width="49%"> <img src="https://github.com/abbouse/PulStat/raw/master/screenshot/screen2.jpg" width="49%">
 
 ### Ilova bosh sahifasi
 Chart.js dan foydalangan holda foydalanuvchi statistikasi qulay tarzda yoritib boriladi
