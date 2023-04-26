@@ -1,7 +1,7 @@
 # PulStat
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://quvnoq.biz)
-[![forthebadge](https://github.com/abbouse/PulStat/raw/master/screenshot/abbos-turdaliev.svg)](http://quvnoq.biz)
+[![forthebadge](https://github.com/abbouse/PulStat/raw/master/screenshot/abbos-turdaliev.svg)](http://t.me/toordaliev)
 
 <table>
 <tr>
@@ -60,9 +60,3 @@ Agar sizda ilova uchun takliv va g'oyalar mavjud bo'lsa yoki sizni hozirgi mavju
 - [Nice Admin](https://github.com/hacktheme/Nice-Admin) - Bootstrap asosida yaratilgan NiceAdmin mavzusi asosida veb ikova yaratildi.
 - [Chart JS](https://www.chartjs.org/) - Oson va moslashuvchan JavaScript asosidagi kutubxona. 
 - [Bootstrap](http://getbootstrap.com/) - Ko'pgina komponentlar jamlanmasi va jamlangan JavaScript plaginlari.
-
-## Team
-
-[![Abbos Turdaliev](https://github.com/abbouse/PulStat/raw/master/assets/img/author.jpg)](https://quvnoq.biz/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
