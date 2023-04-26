@@ -5,13 +5,13 @@ try {
     $host = "localhost";
 
     //dbname
-    $dbname = "u1762161_money";
+    $dbname = "dbname";
 
     //username
-    $username = "u1762161_money";
+    $username = "dbname";
 
     //password
-    $pass = "Ab1221418";
+    $pass = "pswrd";
 
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $pass);
     // $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
